@@ -1,0 +1,18 @@
+# Залежності
+node_modules/
+
+# Налаштування середовища розробки (IntelliJ IDEA / WebStorm)
+.idea/
+
+# Зкомпільовані файли (якщо додаси компіляцію через tsc)
+dist/
+out/
+build/
+
+# Логи Node.js
+npm-debug.log
+yarn-error.log
+
+# Системні файли
+.DS_Store
+Thumbs.db
